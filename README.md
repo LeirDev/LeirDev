@@ -42,9 +42,3 @@ Olá, sou o Gabriel A Borges e estudo TI desde 2023, com foco em desenvolvimento
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/leirdev/leirdev/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-
