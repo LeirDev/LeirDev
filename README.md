@@ -61,16 +61,6 @@
 <br>
 <br>
 
-<div align="center">
-  <p align="center">
-      <samp>
-         <a href="https://github.com/LeirDev">GitHub</a> ⊹
-        <a href="https://portfolio-gab-minimal.vercel.app/#">Portfolio</a> 
-      </samp>
-  </p>
-</div>
-<br>
-
 </details>
 
 ##
