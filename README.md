@@ -1,40 +1,88 @@
-<h2 align="left">Hi 👋! My name is Gabriel</h2>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6f42c1"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeirDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeirDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  <samp>
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=6f42c1&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Gabriel+Alves;Information+Systems+student;Developer+and+gamer" 
+        alt="Typing SVG" />
+    </a>
+  </samp>
 </div>
 
-###
+<br>
 
-<img align="right" height="150" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
+<!-- Imagem lateral (use link DIRETO do Imgur: i.imgur.com) -->
+<img align="right" src="https://i.imgur.com/W6oaJIz.png" alt="Gengar Pokémon Card" width="600" />
 
-###
+<div align="center">
+  <!-- Status -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeirDev&theme=jolly" width="250" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <!-- Top Languages Repo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeirDev&theme=jolly" width="250" />
+
+  <!-- Top Languages Commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeirDev&theme=jolly" width="250" />
+
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeirDev&theme=jolly" width="250" />
 </div>
 
-###
+<br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-alves-borges-93163b231/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://portfolio-gab-minimal.vercel.app/#">
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=vercel&logoColor=fff" />
+  </a>
+  <a href="https://github.com/LeirDev">
+    <img src="https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-alves-borges-93163b231/">
+    <img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://linktr.ee/LeirDev">
+    <img src="https://img.shields.io/badge/Linktree-6f42c1?style=for-the-badge&logo=linktree&logoColor=fff" />
   </a>
 </div>
 
-###
 
-<br clear="both">
+<br>
 
-<img src="https://raw.githubusercontent.com/LeirDev/LeirDev/output/snake.svg" alt="Snake animation" />
+<!-- Skills (opcional) -->
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+  <img width="40" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="JetBrains"/>
+</div>
 
-###
+<br>
+<br>
+
+<div align="center">
+  <p align="center">
+      <samp>
+         <a href="https://github.com/LeirDev">GitHub</a> ⊹
+        <a href="https://portfolio-gab-minimal.vercel.app/#">Portfolio</a> 
+      </samp>
+  </p>
+</div>
+<br>
+
+</details>
+
+##
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLeirDev&s=30&c=6f42c1&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=100&section=footer"/>
