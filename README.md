@@ -17,10 +17,10 @@
 
 <div align="center">
   <!-- Status -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeirDev&theme=jolly" width="280" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeirDev&theme=jolly" width="260" />
 
   <!-- Top Languages Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeirDev&theme=jolly" width="280" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeirDev&theme=jolly" width="260" />
 
   <!-- Profile Details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeirDev&theme=jolly" width="600" />
