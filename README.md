@@ -13,7 +13,7 @@
 <br>
 
 <!-- Imagem lateral (use link DIRETO do Imgur: i.imgur.com) -->
-<img align="right" src="https://i.imgur.com/W6oaJIz.png" alt="Gengar Pokémon Card" width="210"/>
+<img align="right" src="https://i.imgur.com/W6oaJIz.png" alt="Gengar Pokémon Card" width="220"/>
 
 <div align="center">
   <!-- Status -->
