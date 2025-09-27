@@ -23,7 +23,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeirDev&theme=jolly" width="260" />
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeirDev&theme=jolly" width="515" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeirDev&theme=jolly" width="517" />
 </div>
 
 <br>
