@@ -38,9 +38,9 @@
   <a href="https://www.linkedin.com/in/gabriel-alves-borges-93163b231/">
     <img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
-  <a href="https://linktr.ee/LeirDev">
+  <!--<a href="https://linktr.ee/LeirDev">
     <img src="https://img.shields.io/badge/Linktree-6f42c1?style=for-the-badge&logo=linktree&logoColor=fff" />
-  </a>
+  </a>-->
 </div>
 
 
