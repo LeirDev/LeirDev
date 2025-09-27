@@ -13,7 +13,7 @@
 <br>
 
 <!-- Imagem lateral (use link DIRETO do Imgur: i.imgur.com) -->
-<img align="right" src="https://i.imgur.com/W6oaJIz.png" alt="Gengar Pokémon Card" width="300" />
+<img align="right" src="https://i.imgur.com/W6oaJIz.png" alt="Gengar Pokémon Card" width="280" />
 
 <div align="center">
   <!-- Status -->
@@ -23,7 +23,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeirDev&theme=jolly" width="260" />
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeirDev&theme=jolly" width="600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeirDev&theme=jolly" width="500" />
 </div>
 
 <br>
